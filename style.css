@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#container {
+	height:600px;
+	width:600px;
+	margin: auto;
+}
+
+h1 {
+	font-family: "Press Start 2P";
+	font-size:5em;
+	letter-spacing:.6em;
+	color:red;
+}
